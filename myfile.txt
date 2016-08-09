@@ -1,3 +1,6 @@
 This is my first file.
 Changes to our file, in the clone.
+<<<<<<< HEAD
 Changes to our file, in our own repo.
+=======
+>>>>>>> 104b4e42beb96e4c472283be4111951d3e896e70
